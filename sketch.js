@@ -7,9 +7,11 @@ function draw() {
 <<<<<<< HEAD
   fill(255,0,0);
   circle(200,200, 20);
+
+  elipse (200,30,40);
   
 
- //jjjjjjj
+ //magalie was here
 //ahhhhhhhh
 
 =======
