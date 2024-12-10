@@ -4,8 +4,8 @@ function setup() {
 
 function draw() {
   background(220);
-  Reflect(50,70);
-  Fill(255);
+  rect(50,70,50,50);
+  fill(255);
 
 
 
